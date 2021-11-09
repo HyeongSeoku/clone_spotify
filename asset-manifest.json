@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clone_spotify/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/clone_spotify/static/js/main.d7fbd0dd.chunk.js",
+    "main.js.map": "/clone_spotify/static/js/main.d7fbd0dd.chunk.js.map",
+    "runtime-main.js": "/clone_spotify/static/js/runtime-main.82a97a03.js",
+    "runtime-main.js.map": "/clone_spotify/static/js/runtime-main.82a97a03.js.map",
+    "static/js/2.c2772a0a.chunk.js": "/clone_spotify/static/js/2.c2772a0a.chunk.js",
+    "static/js/2.c2772a0a.chunk.js.map": "/clone_spotify/static/js/2.c2772a0a.chunk.js.map",
+    "static/js/3.62cbda91.chunk.js": "/clone_spotify/static/js/3.62cbda91.chunk.js",
+    "static/js/3.62cbda91.chunk.js.map": "/clone_spotify/static/js/3.62cbda91.chunk.js.map",
+    "index.html": "/clone_spotify/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/clone_spotify/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c2772a0a.chunk.js.LICENSE.txt": "/clone_spotify/static/js/2.c2772a0a.chunk.js.LICENSE.txt",
+    "static/media/Spotify_App_Logo.svg.70b06343.png": "/clone_spotify/static/media/Spotify_App_Logo.svg.70b06343.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a97a03.js",
+    "static/js/2.c2772a0a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d7fbd0dd.chunk.js"
+  ]
+}
